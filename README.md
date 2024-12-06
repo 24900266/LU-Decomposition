@@ -40,7 +40,7 @@ Program to find the LU Decomposition of a matrix.
 
 ## Output:
 ![result](<Screenshot 2024-12-06 222458.png>)
-![alt text](<Screenshot 2024-12-06 222514.png>)
+![result](<Screenshot 2024-12-06 222514.png>)
 
 
 ## Result:
