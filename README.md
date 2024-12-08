@@ -14,6 +14,7 @@ To write a program to find the LU Decomposition of a matrix.
 4. 
 
 ## Program:
+```
 (i) To find the L and U matrix
 Program to find the L and U matrix.
     Developed by: Preetha.K
@@ -36,6 +37,7 @@ Program to find the LU Decomposition of a matrix.
     lu,piv = lu_factor(A)
     x= lu_solve((lu,piv),b)
     print(x)
+    ```
 
 
 ## Output:
