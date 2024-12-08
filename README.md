@@ -37,12 +37,10 @@ Program to find the LU Decomposition of a matrix.
     lu,piv = lu_factor(A)
     x= lu_solve((lu,piv),b)
     print(x)
-    ```
-
-
+```
 ## Output:
-![result](<Screenshot 2024-12-06 222458.png>)
-![result](<Screenshot 2024-12-06 222514.png>)
+![alt text](<Screenshot 2024-12-06 222458-1.png>)
+![alt text](<Screenshot 2024-12-06 222514-1.png>)
 
 
 ## Result:
